@@ -5,3 +5,4 @@ voila
 numpy
 pillow
 varname
+pygtrie
