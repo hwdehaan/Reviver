@@ -1,0 +1,9 @@
+name: voila
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=4*
+  - ipywidgets
+  - scipy
+  - ipympl
+  - voila
