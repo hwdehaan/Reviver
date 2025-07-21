@@ -5,3 +5,5 @@ voila
 numpy
 pillow
 varname
+pygtrie
+random
