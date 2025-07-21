@@ -3,3 +3,4 @@ ipympl
 scipy
 voila
 numpy
+pillow
