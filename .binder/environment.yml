@@ -9,3 +9,4 @@ dependencies:
   - voila
   - pygtrie
   - varname
+  - pillow
