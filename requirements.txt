@@ -6,3 +6,4 @@ numpy
 pillow
 varname
 pygtrie
+random
