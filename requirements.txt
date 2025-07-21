@@ -4,3 +4,4 @@ scipy
 voila
 numpy
 pillow
+varname
